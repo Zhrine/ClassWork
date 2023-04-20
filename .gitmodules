@@ -1,0 +1,3 @@
+[submodule "assets/artisandreamtools"]
+	path = assets/artisandreamtools
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
